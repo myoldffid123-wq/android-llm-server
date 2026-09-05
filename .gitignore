@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Local properties
+local.properties
+
+# IDEs
+*.swp
+*.swo
+*~
+.vscode/
+
+# Models (large files)
+*.gguf
+*.bin
+
+# Temporary files
+*.tmp
+*.log
